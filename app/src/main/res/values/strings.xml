@@ -1,0 +1,127 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <!-- String Array of Numbers-->
+    <string-array name="defaultWords">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+    <string-array name="miwokWords">
+        <item>Lutti</item>
+        <item>Otiiko</item>
+        <item>Toloolosu</item>
+        <item>Oyyiisa</item>
+        <item>Massokka</item>
+        <item>Temmokka</item>
+        <item>Kenekaku</item>
+        <item>Kawinta</item>
+        <item>Wo\'e</item>
+        <item>Na\'aacha</item>
+    </string-array>
+    <!-- String Array of Colors-->
+    <string-array name="defaultColors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Brown</item>
+        <item>Gray</item>
+        <item>Black</item>
+        <item>White</item>
+        <item>Dusty Yellow</item>
+        <item>Mustard Yellow</item>
+    </string-array>
+    <string-array name="miwokColors">
+        <item>We\u021be\u021b\u021bi</item>
+        <item>Chokokki</item>
+        <item>\u021aakaakki</item>
+        <item>\u021aopoppi</item>
+        <item>Kululli</item>
+        <item>Kelelli</item>
+        <item>\u021aopiis\u0259</item>
+        <item>Chiwii\u021b\u0259</item>
+    </string-array>
+    <!-- String Array of Family-->
+    <string-array name="defaultFamily">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Son</item>
+        <item>Daughter</item>
+        <item>Older Brother</item>
+        <item>Younger Brother</item>
+        <item>Older sister</item>
+        <item>Younger sister</item>
+        <item>Grandmother</item>
+        <item>Grandfather</item>
+    </string-array>
+    <string-array name="miwokFamily">
+        <item>\u0259p\u0259</item>
+        <item>\u0259\u021ba</item>
+        <item>angsi</item>
+        <item>tune</item>
+        <item>taachi</item>
+        <item>chalitti</item>
+        <item>te\u021be</item>
+        <item>kolliti</item>
+        <item>ama</item>
+        <item>paapa</item>
+    </string-array>
+    <!-- String Array of Phrases-->
+    <string-array name="defaultPhrases">
+        <item>Where are you going?</item>
+        <item>What is your name?</item>
+        <item>My name is...</item>
+        <item>How are you feeling?</item>
+        <item>I\'m feeling good</item>
+        <item>Are you coming?</item>
+        <item>Yes, I\'m coming</item>
+        <item>I\'m coming</item>
+        <item>Let\'s go</item>
+        <item>Come here</item>
+    </string-array>
+    <string-array name="miwokPhrases">
+        <item>Minto wuksus</item>
+        <item>Tinn\u0259 oyaase\'n\u0259</item>
+        <item>ayaaset...</item>
+        <item>Mich\u0259ks\u0259s?</item>
+        <item>Kuchi achit</item>
+        <item>\u0259\u0259n\u0259s\'aa?</item>
+        <item>H\u0259\u0259\'\u0259\u0259n\u0259m</item>
+        <item>\u0259\u0259n\u0259m</item>
+        <item>Yoowutis</item>
+        <item>\u0259nni\'nem</item>
+    </string-array>
+</resources>
